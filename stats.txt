@@ -1,0 +1,7 @@
+alice
+Número total de jogos: 3
+Jogo 1: 3 V
+Jogo 2: D
+Jogo 3: D
+Derrotas: 2
+Vitórias: 1
